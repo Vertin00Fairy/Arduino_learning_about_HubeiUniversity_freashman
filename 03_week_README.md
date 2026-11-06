@@ -7,3 +7,6 @@
 收获：1.switch case  2.Serial.print(F(））“（F())用于把中文字节放到留在 Flash 里不占RAM”    3.可以在Serial里面用三目运算符  4.按钮的学习
 
 [按钮学习演示视频](https://4006989502.share.123pan.cn/123pan/6Tqkwh-HiKkd?pwd=1145#)
+
+
+这周有点懈怠没学什么东西,,ԾㅂԾ,,
