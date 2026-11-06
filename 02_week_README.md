@@ -7,4 +7,7 @@
 
 
 下面是我的演示视频
-[点击这里查看我的第二周视频123云盘](https://4006989502.share.123pan.cn/123pan/6Tqkwh-b8CEd?pwd=1145#)提取码：1145
+[点击这里查看我的第二周视频](https://www.bilibili.com/video/BV1gZ4B6wEQv/?share_source=copy_web&vd_source=54b4267072f384e837e5b0820e6a9d28)
+
+
+[这是失败视频](https://www.bilibili.com/video/BV1Mw4z6bEEU?vd_source=54b4267072f384e837e5b0820e6a9d28)
