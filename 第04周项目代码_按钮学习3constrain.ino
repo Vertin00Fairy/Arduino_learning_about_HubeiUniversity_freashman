@@ -10,7 +10,7 @@ int g_bts = 0;               //设置绿灯的初始亮度为0
 int step = 5;                //灯变化的幅度
 const unsigned long bufferTime = 15;         //缓冲时间为15ms
 const unsigned long itvTime = 2000;          //按钮都没按住超过2s就回到最初的样子（InTerValTime）
-unsigned long lastTime = 0;  //记录上一次变化时的时间用来50ms的消抖
+unsigned long lastTime = 0;  //记录上一次到达15ms的时间
 unsigned long buttonTime = 0;//记录上一次按钮变化的时间
 void setup() {
   pinMode(Btn1, INPUT_PULLUP);
@@ -71,4 +71,4 @@ void loop() {
   }
 
 }
-//这次没把按键消抖做出来(lll￢ω￢)，因为觉得15ms的缓冲时间已经能够滤掉大部分案件抖动问题，下一条专门练习下。
+//这次没把按键消抖做出来(lll￢ω￢)，因为觉得15ms的缓冲时间已经能够滤掉大部分按键抖动问题，下一条专门练习下。
