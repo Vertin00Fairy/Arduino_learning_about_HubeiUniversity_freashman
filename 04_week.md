@@ -3,7 +3,7 @@
 <summary> <strong>干了什么</strong> </summary>
 
 1. 学习`consttrain`
-2. 学习了markdown让文本更好看:smile:
+2. 学习了markdown让文本更好看 :smile:
 3. c
 
 </details>
