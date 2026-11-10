@@ -1,12 +1,8 @@
 # **这周准备小车！**
-<details>
-<summary> <strong>干了什么</strong> </summary>
-
+ <strong>干了什么</strong> 
 1. 学习`consttrain` `unit8_t`
 2. 学习了markdown让文本更好看 😄
 3. 
-</details>
-
 <details>
   <summary><strong>踩到什么坑:</strong></summary>
   
