@@ -1,6 +1,6 @@
 # **这周准备小车！**
  <strong>干了什么</strong> 
-1. 学习`consttrain` `unit8_t`
+1. 学习`consttrain` `unit8_t` `analogRead` 
 2. 学习了markdown让文本更好看 😄
 3. 
 <details>
